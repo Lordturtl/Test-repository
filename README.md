@@ -1,3 +1,4 @@
 # Test-repository
-Nothing here for now <br>
-Except for this readme I guess.
+This is a test repository<br>
+Currently messing around with C#<br>
+Thats all.
